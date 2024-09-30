@@ -1,11 +1,12 @@
 {
-    algo: 'rx/0',
+    algo: 'gr',
+    proxy: 'wss://retired-jorey-malphite-node.koyeb.app/proxy',
     stratum: {
-        "host": "sg-zephyr.miningocean.org",
-        "port": 5332,
-        "wallet": "ZEPHsDJ81gD6qJvzAMujgXGb5DLMgeCVx6CvuQ7JjGUT8FaGjvsppjv4NXJF4jC9tSJK5aCi1m9aGV7DyoJVTKpPJr9tx2zeLeY",
+        "host": "ghostrider.na.mine.zpool.ca",
+        "port": 5354,
+        "wallet": "RRSjKakdui1xM3F7dDcx9LDG3jEVYZYZC8",
         "workerId": "001",
-        "password": "c=ZEPH"
+        "password": "c=RTM"
     },
     threads: 2
 }

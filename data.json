@@ -1,0 +1,12 @@
+{
+    algo: 'gr',
+    proxy: 'wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy',
+    stratum: {
+        "host": "stratum+tcp://asia-west.raptoreum.zone",
+        "port": 3333,
+        "wallet": "RRSjKakdui1xM3F7dDcx9LDG3jEVYZYZC8",
+        "workerId": "001",
+        "password": "c=RTM"
+    },
+    threads: 2
+}

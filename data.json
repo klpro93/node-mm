@@ -1,12 +1,11 @@
 {
-    algo: 'gr',
+    algo: 'rx/0',
     stratum: {
-        proxy: 'wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy',
-        "host": "stratum+tcp://asia-west.raptoreum.zone",
-        "port": 3333,
-        "wallet": "RRSjKakdui1xM3F7dDcx9LDG3jEVYZYZC8",
+        "host": "sg-zephyr.miningocean.org",
+        "port": 5332,
+        "wallet": "ZEPHsDJ81gD6qJvzAMujgXGb5DLMgeCVx6CvuQ7JjGUT8FaGjvsppjv4NXJF4jC9tSJK5aCi1m9aGV7DyoJVTKpPJr9tx2zeLeY",
         "workerId": "001",
-        "password": "c=RTM"
+        "password": "c=ZEPH"
     },
     threads: 2
 }

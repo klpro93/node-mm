@@ -7,5 +7,5 @@
         "workerId": "001",
         "password": "x"
     },
-    "threads": CPU_THREADS
+    "threads": 2
 }

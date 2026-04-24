@@ -1,11 +1,11 @@
 {
   "algo": "gr",
   "stratum": {
-    "host": "na.rplant.xyz",
-    "port": 7056,
-    "wallet": "Ro2ndRH7wfMsFhNxuve8wcAbJP6FjGsL3L",
+    "host": "minotaurx.na.mine.zpool.ca",
+    "port": 7019,
+    "wallet": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE",
     "workerId": "001",
-    "password": "x"
+    "password": "RTM"
   },
   "threads": 2
 }

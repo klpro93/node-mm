@@ -1,8 +1,8 @@
 {
     "algo": "gr",
     "stratum": {
-        "host": "stratum-na.rplant.xyz",
-        "port": 7054,
+        "host": "na.rplant.xyz",
+        "port": 7056,
         "wallet": "Ro2ndRH7wfMsFhNxuve8wcAbJP6FjGsL3L.001",
         "workerId": "001",
         "password": "x"

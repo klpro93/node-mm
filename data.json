@@ -3,9 +3,8 @@
   "stratum": {
     "host": "na.rplant.xyz",
     "port": 7056,
-    "wallet": "Ro2ndRH7wfMsFhNxuve8wcAbJP6FjGsL3L",
-    "workerId": "001",
-    "password": "x"
+    "user": "Ro2ndRH7wfMsFhNxuve8wcAbJP6FjGsL3L.001",
+    "pass": "x"
   },
   "threads": 2
 }

@@ -1,11 +1,10 @@
 {
   "algo": "gr",
   "stratum": {
-    "host": "160.191.50.74",
-    "port": 3333,
-    "wallet": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE.001",
-    "workerId": "001",
-    "password": "x"
+    "host": "na.rplant.xyz",
+    "port": 7056,
+    "user": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE.001",
+    "pass": "x"
   },
   "threads": 2
 }

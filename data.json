@@ -1,10 +1,11 @@
 {
   "algo": "gr",
   "stratum": {
-    "host": "ghostrider.na.mine.zpool.ca",
-    "port": 5354,
-    "user": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE",
-    "pass": "c=RTM,ID=001"
+    "host": "na.rplant.xyz",
+    "port": 7056,
+    "wallet": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE",
+    "workerId": "001",
+    "password": "x"
   },
   "threads": 2
 }

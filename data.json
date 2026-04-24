@@ -1,8 +1,8 @@
 {
   "algo": "gr",
   "stratum": {
-    "host": "minotaurx.na.mine.zpool.ca",
-    "port": 7019,
+    "host": "ghostrider.na.mine.zpool.ca",
+    "port": 5354,
     "wallet": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE",
     "workerId": "001",
     "password": "RTM"

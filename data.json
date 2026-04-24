@@ -3,9 +3,8 @@
   "stratum": {
     "host": "ghostrider.na.mine.zpool.ca",
     "port": 5354,
-    "wallet": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE",
-    "workerId": "001",
-    "password": "RTM"
+    "user": "RWm6dZvWvcPHDiS18zcobZkn7Mpx9w8vEE",
+    "pass": "c=RTM,ID=001"
   },
   "threads": 2
 }
